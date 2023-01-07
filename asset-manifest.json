@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Counter-with-redux/static/css/main.ce0c5fde.css",
+    "main.js": "/Counter-with-redux/static/js/main.9f7d2598.js",
+    "index.html": "/Counter-with-redux/index.html",
+    "main.ce0c5fde.css.map": "/Counter-with-redux/static/css/main.ce0c5fde.css.map",
+    "main.9f7d2598.js.map": "/Counter-with-redux/static/js/main.9f7d2598.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0c5fde.css",
+    "static/js/main.9f7d2598.js"
+  ]
+}
